@@ -44,3 +44,12 @@ Temporary Items
 
 *.mdf
 *.mdf
+*.dll
+*.pdb
+*.cache
+*.config
+*.user
+*.nupkg
+*.css
+*.exe
+*.js
