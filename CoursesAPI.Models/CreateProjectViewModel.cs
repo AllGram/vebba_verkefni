@@ -12,11 +12,11 @@ namespace CoursesAPI.Models
         [Required]
         public string Name { get; set; }
 
-        public int MinGradeToPass { get; set; }
+        public int? MinGradeToPass { get; set; }
 
         [Required]
         public int Weight { get; set; }
 
-        public int CountsIfHigherThanProjectID { get; set; }
+        public int? CountsIfHigherThanProjectID { get; set; }
     }
 }

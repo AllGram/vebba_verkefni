@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CoursesAPI.Services.Extensions
 {
-    public static class ProjectGroupExtension
+    public static class ProjectGroupExtensions
     {
         public static ProjectGroup GetProjectGroupByID(this IRepository<ProjectGroup> repo, int ID)
         {

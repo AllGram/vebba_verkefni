@@ -64,7 +64,27 @@ namespace CoursesAPI.Services.Services
             // We need to check if the projectgroup actually exists, if it doesn't then our extension throws and exception
             var projectGroup = _projectGroups.GetProjectGroupByID(projectGroupID);
 
+            if (model.CountsIfHigherThanProjectID != null)
+            {
+                // Check if the project that we 
+                var checkproject = _projects.GetProjectByID(model.CountsIfHigherThanProjectID);
+            }
+            else
+            {
+                model.CountsIfHigherThanProjectID = null;
+            }
 
+            var project = new Project
+            {
+                Name = model.Name,
+                ProjectGroupID = projectGroupID,
+                MinGradeToPass = model.MinGradeToPass,
+                CountsIfHigherThanProjectID = model.CountsIfHigherThanProjectID,
+                Weight = model.Weight
+            };
+
+            _projects.Add(project);
+            _uow.Save();
         }
 	}
 }
