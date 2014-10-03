@@ -45,6 +45,8 @@ namespace CoursesAPI.Services.Services
             // We need to check if the course actually exists, if it doesn't then our extensions throws an exception
             var courseInstance = _courseInstances.GetCourseInstanceByID(courseInstanceID);
 
+
+            // We create the group because we know that the course existed
             var projectGroup = new ProjectGroup
             {
                 Name = model.Name,
@@ -52,8 +54,17 @@ namespace CoursesAPI.Services.Services
                 NumberOfProjectsThatCount = model.NumberOfProjectsThatCount
             };
 
+            // Add and save the group
             _projectGroups.Add(projectGroup);
             _uow.Save();
+        }
+
+        public void CreateProject(int projectGroupID, CreateProjectViewModel model)
+        {
+            // We need to check if the projectgroup actually exists, if it doesn't then our extension throws and exception
+            var projectGroup = _projectGroups.GetProjectGroupByID(projectGroupID);
+
+
         }
 	}
 }

@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="CourseInstanceDTO.cs" />
     <Compile Include="CreateProjectGroupViewModel.cs" />
+    <Compile Include="CreateProjectViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

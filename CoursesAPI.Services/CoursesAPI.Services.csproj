@@ -54,6 +54,7 @@
     <Compile Include="DataAccess\Repository.cs" />
     <Compile Include="DataAccess\UnitOfWork.cs" />
     <Compile Include="Extensions\CourseInstanceExtensions.cs" />
+    <Compile Include="Extensions\ProjectGroupExtension.cs" />
     <Compile Include="Models\Entities\Course.cs" />
     <Compile Include="Models\Entities\CourseInstance.cs" />
     <Compile Include="Models\Entities\Grade.cs" />

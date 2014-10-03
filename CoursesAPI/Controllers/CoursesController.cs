@@ -37,6 +37,14 @@ namespace CoursesAPI.Controllers
             return;
         }
 
+        [HttpPost]
+        [Route("projectgroup/{projectGroupID:int}/project")]
+        public void CreateProject(int projectGroupID, CreateProjectViewModel model)
+        {
+            _service.CreateProject(projectGroupID, model);
+            return;
+        }
+
         
 	}
 }

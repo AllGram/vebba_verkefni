@@ -24,11 +24,6 @@ namespace CoursesAPI.Services.Models.Entities
         public int ProjectGroupID { get; set; }
 
         /// <summary>
-        /// A reference to the courseinstance that this project belongs to.
-        /// </summary>
-        public int CourseInstanceID { get; set; }
-
-        /// <summary>
         /// The id of the project which will count towards the final grade if it is higher than the this projects grade
         /// </summary>
         public int CountsIfHigherThanProjectID { get; set; }
