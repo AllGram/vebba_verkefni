@@ -1,0 +1,5 @@
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Models\bin\Debug\CoursesAPI.Models.dll
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Models\bin\Debug\CoursesAPI.Models.pdb
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Models\obj\Debug\CoursesAPI.Models.csprojResolveAssemblyReference.cache
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Models\obj\Debug\CoursesAPI.Models.dll
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Models\obj\Debug\CoursesAPI.Models.pdb

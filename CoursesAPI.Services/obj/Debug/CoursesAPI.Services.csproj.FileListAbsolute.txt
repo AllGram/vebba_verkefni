@@ -1,0 +1,12 @@
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Services\bin\Debug\CoursesAPI.Services.dll.config
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Services\bin\Debug\CoursesAPI.Services.dll
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Services\bin\Debug\CoursesAPI.Services.pdb
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Services\bin\Debug\CoursesAPI.Models.dll
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Services\bin\Debug\EntityFramework.dll
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Services\bin\Debug\CoursesAPI.Models.pdb
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Services\bin\Debug\EntityFramework.xml
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Services\obj\Debug\CoursesAPI.Services.csprojResolveAssemblyReference.cache
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Services\obj\Debug\CoursesAPI.Services.dll
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Services\obj\Debug\CoursesAPI.Services.pdb

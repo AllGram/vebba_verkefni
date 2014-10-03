@@ -1,0 +1,11 @@
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Tests\bin\Debug\CoursesAPI.Tests.dll
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Tests\bin\Debug\CoursesAPI.Tests.pdb
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Tests\bin\Debug\CoursesAPI.Services.dll
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Tests\bin\Debug\CoursesAPI.Models.dll
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Tests\bin\Debug\CoursesAPI.Services.pdb
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Tests\bin\Debug\CoursesAPI.Models.pdb
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Tests\obj\Debug\CoursesAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Tests\obj\Debug\CoursesAPI.Tests.dll
+C:\Users\thekris121\Desktop\2014-T-514-VEFT-master (3)\2014-T-514-VEFT-master\Week04\Week04Example\CoursesAPI.Tests\obj\Debug\CoursesAPI.Tests.pdb
