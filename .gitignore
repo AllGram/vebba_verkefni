@@ -26,7 +26,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -43,7 +44,8 @@ Temporary Items
 .apdisk
 
 *.mdf
-*.mdf
+*.ldf
+*.suo
 *.dll
 *.pdb
 *.cache
@@ -53,3 +55,9 @@ Temporary Items
 *.css
 *.exe
 *.js
+*.config
+/packages/WebGrease.1.5.2/tools/install.ps1
+packages/WebGrease.1.5.2/tools/install.ps1
+packages/Respond.1.2.0/content/Scripts/respond.min.js
+*/obj/Debug/
+packages/*

@@ -16,12 +16,6 @@ namespace CoursesAPI.Controllers
 		{
 			_service = new CoursesServiceProvider(new UnitOfWork<AppDataContext>());
 		}
-
-        [Route("krisby")]
-        public void hellokris()
-        {
-            return;
-        }
 		
 		[Route("semester/{semester}")]
 		public List<CourseInstanceDTO> GetCoursesOnSemester(string semester)
@@ -45,6 +39,11 @@ namespace CoursesAPI.Controllers
             return;
         }
 
-        
+        [HttpPost]
+        [Route("grade/{projectID:int")]
+        public void GiveGrades(int projectID, GiveGradesViewModel model)
+        {
+            _service.GiveGrades(projectID, model);
+        }
 	}
 }

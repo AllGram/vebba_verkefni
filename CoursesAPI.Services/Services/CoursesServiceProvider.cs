@@ -63,8 +63,12 @@ namespace CoursesAPI.Services.Services
         {
             // We need to check if the projectgroup actually exists, if it doesn't then our extension throws and exception
             var projectGroup = _projectGroups.GetProjectGroupByID(projectGroupID);
+            return;
+        }
 
-
+        public void GiveGrades(int projectID, GiveGradesViewModel model)
+        {
+            return;
         }
 	}
 }
