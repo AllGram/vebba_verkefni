@@ -61,3 +61,5 @@ packages/WebGrease.1.5.2/tools/install.ps1
 packages/Respond.1.2.0/content/Scripts/respond.min.js
 */obj/Debug/
 packages/*
+CoursesAPI.Tests/obj/Debug/CoursesAPI.Tests.csproj.FileListAbsolute.txt
+CoursesAPI.Tests/obj/Debug/CoursesAPI.Tests.csproj.FileListAbsolute.txt
