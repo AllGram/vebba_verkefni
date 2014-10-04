@@ -10,7 +10,7 @@ namespace CoursesAPI.Services.Extensions
 {
     public static class ProjectExtensions
     {
-        public static Project GetProjectByID(this IRepository<Project> repo, int ID)
+        public static Project GetProjectByID(this IRepository<Project> repo, int? ID)
         {
             var project = repo.All().SingleOrDefault(p => p.ID == ID);
             if (project == null)

@@ -26,7 +26,7 @@ namespace CoursesAPI.Services.Models.Entities
         /// <summary>
         /// The id of the project which will count towards the final grade if it is higher than the this projects grade
         /// </summary>
-        public int CountsIfHigherThanProjectID { get; set; }
+        public int? CountsIfHigherThanProjectID { get; set; }
 
         /// <summary>
         /// The weight of this project in the course (max 100)
@@ -36,7 +36,7 @@ namespace CoursesAPI.Services.Models.Entities
         /// <summary>
         /// The minimum grade to pass the course.
         /// </summary>
-        public int MinGradeToPass { get; set; }
+        public int? MinGradeToPass { get; set; }
 
     }
 }

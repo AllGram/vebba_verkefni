@@ -54,7 +54,7 @@
     <Compile Include="DataAccess\Repository.cs" />
     <Compile Include="DataAccess\UnitOfWork.cs" />
     <Compile Include="Extensions\CourseInstanceExtensions.cs" />
-    <Compile Include="Extensions\ProjectGroupExtension.cs" />
+    <Compile Include="Extensions\ProjectGroupExtensions.cs" />
     <Compile Include="Models\Entities\Course.cs" />
     <Compile Include="Models\Entities\CourseInstance.cs" />
     <Compile Include="Models\Entities\Grade.cs" />
@@ -62,6 +62,7 @@
     <Compile Include="Models\Entities\Project.cs" />
     <Compile Include="Models\Entities\ProjectGroup.cs" />
     <Compile Include="Models\Entities\Semester.cs" />
+    <Compile Include="Extensions\ProjectExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\CoursesServiceProvider.cs" />
   </ItemGroup>
